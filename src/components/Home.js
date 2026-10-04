@@ -78,10 +78,10 @@ function Home() {
             </span>
 
             <div className="social-row">
-              <a href="https://linkedin.com/in/naman1608" target="_blank" rel="noopener noreferrer" className="social-node" data-brand="linkedin" aria-label="Naman Srivastava on LinkedIn">
+              <a href="https://linkedin.com/in/namansrivastavaaa" target="_blank" rel="noopener noreferrer" className="social-node" data-brand="linkedin" aria-label="Naman Srivastava on LinkedIn">
                 <FaLinkedin aria-hidden="true" focusable="false" />
               </a>
-              <a href="https://github.com/naman-0804" target="_blank" rel="noopener noreferrer" className="social-node" data-brand="github" aria-label="Naman Srivastava on GitHub">
+              <a href="https://github.com/namansrivastavaaa" target="_blank" rel="noopener noreferrer" className="social-node" data-brand="github" aria-label="Naman Srivastava on GitHub">
                 <FaGithub aria-hidden="true" focusable="false" />
               </a>
               <a href="https://www.youtube.com/@naman_0804/" target="_blank" rel="noopener noreferrer" className="social-node" data-brand="youtube" aria-label="Naman Srivastava on YouTube">

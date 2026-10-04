@@ -12,7 +12,7 @@ const blogs = [
   {
     id: 'blog-mlops',
     title: 'Building a Production-Grade End-to-End MLOps Pipeline from Scratch',
-    link: 'https://dev.to/naman_2004/building-a-production-grade-end-to-end-mlops-pipeline-from-scratch-l9h',
+    link: 'https://dev.to/namansrivastavaaa/building-a-production-grade-end-to-end-mlops-pipeline-from-scratch-l9h',
     date: 'September 2026',
     readTime: '30 min read',
     readMinutes: 30,
@@ -22,7 +22,7 @@ const blogs = [
   {
     id: 'blog-1',
     title: 'Combining Total DSA + Github Stats across Platforms',
-    link: 'https://dev.to/naman_2004/extracting-dsa-question-statistics-from-codolio-and-takeuforward-tuf-5g7o',
+    link: 'https://dev.to/namansrivastavaaa/extracting-dsa-question-statistics-from-codolio-and-takeuforward-tuf-5g7o',
     date: 'January 2026',
     readTime: '7 min read',
     readMinutes: 7,
@@ -36,7 +36,7 @@ const blogs = [
     readTime: '3 min read',
     readMinutes: 3,
     description: 'Upload Files without login to google drive ',
-    link: 'https://dev.to/naman_2004/secure-login-free-file-transfers-with-filestorage-1j99',
+    link: 'https://dev.to/namansrivastavaaa/secure-login-free-file-transfers-with-filestorage-1j99',
     image: dl,
   },
   {
@@ -46,7 +46,7 @@ const blogs = [
     readTime: '20 min read',
     readMinutes: 20,
     description: 'Predict Diabetes using ML models and deploy them on AWS',
-    link: 'https://dev.to/naman_2004/diabetes-detection-on-aws-4fll',
+    link: 'https://dev.to/namansrivastavaaa/diabetes-detection-on-aws-4fll',
     image: db,
   },
   {
@@ -56,7 +56,7 @@ const blogs = [
     readTime: '10 min read',
     readMinutes: 10,
     description: 'Analyzing customer behavior and creating segmentation clusters using Python, Scikit-learn, and Streamlit.',
-    link: 'https://dev.to/naman_2004/-mall-customer-segmentation-streamlit-app-a-step-by-step-tutorial-4pm2',
+    link: 'https://dev.to/namansrivastavaaa/-mall-customer-segmentation-streamlit-app-a-step-by-step-tutorial-4pm2',
     image: ecommerece,
   },
   {
@@ -66,7 +66,7 @@ const blogs = [
     readTime: '15 min read',
     readMinutes: 15,
     description: 'Learn how to construct a robust real-time chat application ',
-    link: 'https://dev.to/naman_2004/build-a-secure-real-time-chat-app-in-minutes-with-react-clerk-and-stream-4a45',
+    link: 'https://dev.to/namansrivastavaaa/build-a-secure-real-time-chat-app-in-minutes-with-react-clerk-and-stream-4a45',
     image: chat,
   }
 

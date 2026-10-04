@@ -37,7 +37,7 @@ function Projects() {
       description: 'Built an end-to-end MLOps pipeline with DVC, Prefect, MLflow, and GitHub Actions CI/CD, deploying a Dockerized FastAPI inference service to Render. Implemented production monitoring and model observability with Prometheus, Grafana, and Evidently AI, providing real-time system metrics, model performance tracking, and automated data drift detection for reliable ML operations.',
       image: mlops,
       technologies: ['Prefect', 'MLflow', 'Prometheus', 'Grafana'],
-      github: 'https://github.com/naman-0804/End-to-end-MLOPS-Pipeline',
+      github: 'https://github.com/namansrivastavaaa/End-to-end-MLOPS-Pipeline',
       youtube: 'https://www.youtube.com/watch?v=LTsR5537USc'
     },
     {
@@ -47,7 +47,7 @@ function Projects() {
       description: 'A dynamic workflow capable of executing real-time web searches (Tavily), API querying (Wikipedia), and calci calculations. The system integrates document parsing (PDFs/DOCX) enabling the agent to autonomously extract context from unstructured data and write generated outputs directly in text format.',
       image: multiTool,
       technologies: ['LangGraph', 'Gemini API', 'Tavily'],
-      github: 'https://github.com/naman-0804/langgraph-gemini-multi-tool-agent',
+      github: 'https://github.com/namansrivastavaaa/langgraph-gemini-multi-tool-agent',
       demo: 'https://multi-tool-agent.streamlit.app/'
     },
     {
@@ -57,7 +57,7 @@ function Projects() {
       description: 'Real-Time Loitering Detection , Proactive route planning and geofencing based tracking Navigation system.',
       image: route,
       technologies: ['React', 'Python', 'OpenCV', 'OSM API'],
-      github: 'https://github.com/naman-0804/RouteGuard',
+      github: 'https://github.com/namansrivastavaaa/RouteGuard',
       youtube: 'https://www.youtube.com/watch?v=LGjBXVr_ZvM'
     },
     {
@@ -67,7 +67,7 @@ function Projects() {
       description: 'Made an AWS Virtual Private Cloud and demonstrated the connection with private EC2 instance using SSH inside NAT instance',
       image: vpc,
       technologies: ['AWS', 'VPC', 'EC2', 'IAM'],
-      github: 'https://github.com/naman-0804/Cloud-AWS/tree/main/Virtual%20Private%20Cloud%20Setup',
+      github: 'https://github.com/namansrivastavaaa/Cloud-AWS/tree/main/Virtual%20Private%20Cloud%20Setup',
       youtube: ''
     },
     {
@@ -77,7 +77,7 @@ function Projects() {
       description: 'Designed a two-way real-time communication system where mute patients stream hand-gesture video during live WebRTC-Based video calls on his side. The hand landmark is then processed by ML model and predicted text is delivered live to the doctor\'s interface via MongoDB with TTS support.',
       image: sahyogi,
       technologies: ['React', 'WebRTC', 'MongoDB'],
-      github: 'https://github.com/naman-0804/sih-site',
+      github: 'https://github.com/namansrivastavaaa/sih-site',
       youtube: 'https://youtu.be/eXR-V_Ck7VA?si=OxYaDhNPUAbsYDEK'
     },
     {
@@ -97,7 +97,7 @@ function Projects() {
       description: 'Real-time anonymous chat application built with WebSockets. No login required — just create or join a room and start chatting instantly.',
       image: anonChat,
       technologies: ['Node.js', 'WebSocket', 'Express', 'Render'],
-      github: 'https://github.com/naman-0804/Anon-chat',
+      github: 'https://github.com/namansrivastavaaa/Anon-chat',
       demo: 'https://anon-chat-e7x5.onrender.com'
     },
     {
@@ -125,7 +125,7 @@ function Projects() {
       description: 'Upload and download files securely without requiring user login.',
       image: dl,
       technologies: ['GCP', 'Google API', 'Flask'],
-      github: 'https://github.com/naman-0804/File_Storage',
+      github: 'https://github.com/namansrivastavaaa/File_Storage',
       youtube: 'https://www.youtube.com/watch?v=5xgZ00DH89w'
     },
 
@@ -136,7 +136,7 @@ function Projects() {
       description: 'Fully serverless architecture using AWS Lambda and DynamoDB.',
       image: aws,
       technologies: ['AWS Lambda', 'DynamoDB', 'JS'],
-      github: 'https://github.com/naman-0804/Cloud-AWS',
+      github: 'https://github.com/namansrivastavaaa/Cloud-AWS',
       youtube: 'https://youtu.be/bld7EkDXFR4?si=4ccr0Le0AUv6gtfL'
     },
     {
@@ -146,7 +146,7 @@ function Projects() {
       description: 'Machine Learning model deployed on AWS for predicting diabetes. Features like AWS SNS for notif, DynamoDB for preds was used',
       image: db,
       technologies: ['Python', 'AWS', 'Flask', 'ML'],
-      github: 'https://github.com/naman-0804/Diabetes_Prediction_onAWS',
+      github: 'https://github.com/namansrivastavaaa/Diabetes_Prediction_onAWS',
       youtube: 'https://youtu.be/OqBdSu4jDhs?si=s80-z3eRVexeqTu1'
     },
     {
@@ -156,7 +156,7 @@ function Projects() {
       description: 'React app with Docker containerization and GitHub Actions workflow.',
       image: devops,
       technologies: ['Docker', 'React', 'GitHub Actions'],
-      github: 'https://github.com/naman-0804/to-do_devops_',
+      github: 'https://github.com/namansrivastavaaa/to-do_devops_',
       youtube: 'https://www.youtube.com/watch?v=NSN33CLi0M8'
     },
     {
@@ -166,7 +166,7 @@ function Projects() {
       description: 'Privacy-preserving mental health tracking system for students with automated SOS triggers and SHA-256 anonymization.',
       image: wecalm,
       technologies: ['React', 'Flask', 'MongoDB', 'Recharts'],
-      github: 'https://github.com/naman-0804/Counselling-Management-',
+      github: 'https://github.com/namansrivastavaaa/Counselling-Management-',
       youtube: ''
     },
     {
@@ -176,7 +176,7 @@ function Projects() {
       description: 'NLP-based tool to summarize long web articles automatically.',
       image: wcs,
       technologies: ['Python', 'NLP', 'Flask'],
-      github: 'https://github.com/naman-0804/Ai_content_summarizer',
+      github: 'https://github.com/namansrivastavaaa/Ai_content_summarizer',
       youtube: 'https://www.youtube.com/watch?v=X9xr08p2mtk'
     },
     {
@@ -186,7 +186,7 @@ function Projects() {
       description: 'Medical resource aggregator and appointment booking system.',
       image: medhub,
       technologies: ['React', 'Node.js', 'Express'],
-      github: 'https://github.com/naman-0804/Healthcare',
+      github: 'https://github.com/namansrivastavaaa/Healthcare',
       youtube: 'https://www.youtube.com/@naman_0804'
     },
     {
@@ -196,7 +196,7 @@ function Projects() {
       description: 'Agricultural tech solution for analyzing crop maturity via images.',
       image: okrapic,
       technologies: ['Python', 'Image Processing'],
-      github: 'https://github.com/naman-0804/Okra-Maturity-Analysis',
+      github: 'https://github.com/namansrivastavaaa/Okra-Maturity-Analysis',
       youtube: 'https://www.youtube.com/@naman_0804'
     },
     {
@@ -206,7 +206,7 @@ function Projects() {
       description: 'Comprehensive healthcare platform for connecting patients and doctors.',
       image: vitalized,
       technologies: ['React', 'Node.js', 'MongoDB'],
-      github: 'https://github.com/naman-0804/vitalized-vit',
+      github: 'https://github.com/namansrivastavaaa/vitalized-vit',
       youtube: 'https://youtu.be/PPTDtrzJOT8?si=e32v89AZyyjjZ0av'
     },
     {
@@ -216,7 +216,7 @@ function Projects() {
       description: 'The website you are currently looking at!',
       image: Portfolio,
       technologies: ['React', 'EmailJs', 'CSS3'],
-      github: 'https://github.com/naman-0804/Portfolio-Naman',
+      github: 'https://github.com/namansrivastavaaa/Portfolio-Naman',
       youtube: 'https://www.youtube.com/watch?v=u4lYKwQs48s'
     },
     {
@@ -226,7 +226,7 @@ function Projects() {
       description: 'Real-time ASL/ISL translation using computer vision and deep learning.',
       image: sl,
       technologies: ['TensorFlow', 'OpenCV', 'Python'],
-      github: 'https://github.com/naman-0804/Sign-Language-Translator',
+      github: 'https://github.com/namansrivastavaaa/Sign-Language-Translator',
       youtube: 'https://youtu.be/qMkM-zELXGI?si=hYzMO1V07OooRW-y'
     },
     {
@@ -236,7 +236,7 @@ function Projects() {
       description: 'Intelligent conversational bot powered by Amazon Lex.',
       image: lex,
       technologies: ['AWS Lex', 'AI', 'Cloud'],
-      github: 'https://github.com/naman-0804?tab=repositories',
+      github: 'https://github.com/namansrivastavaaa?tab=repositories',
       youtube: 'https://www.youtube.com/watch?v=lU9DK8GRS1k'
     }
   ];

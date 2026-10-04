@@ -69,8 +69,8 @@ function Terminal() {
       "   - End-to-end supervised/unsupervised learning models."
     ],
     contact: [
-      "GitHub   : github.com/naman-0804",
-      "LinkedIn : linkedin.com/in/naman1608",
+      "GitHub   : github.com/namansrivastavaaa",
+      "LinkedIn : linkedin.com/in/namansrivastavaaa",
       "Email    : namansrivastava1608@gmail.com"
     ]
   };

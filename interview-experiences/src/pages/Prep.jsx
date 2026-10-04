@@ -106,7 +106,7 @@ const prepSections = [
     resources: [
       {
         label: 'Dev.to — Naman Srivastava',
-        url: 'https://dev.to/naman_2004',
+        url: 'https://dev.to/namansrivastavaaa',
         type: 'Blog'
       }
     ]

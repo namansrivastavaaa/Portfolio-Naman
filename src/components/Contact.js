@@ -113,8 +113,8 @@ function Contact() {
             <div className="premium-socials">
               <h4>SOCIALS</h4>
               <div className="social-icons-minimal">
-                <a href="https://linkedin.com/in/naman1608" target="_blank" rel="noreferrer">LinkedIn</a>
-                <a href="https://github.com/naman-0804" target="_blank" rel="noreferrer">GitHub</a>
+                <a href="https://linkedin.com/in/namansrivastavaaa" target="_blank" rel="noreferrer">LinkedIn</a>
+                <a href="https://github.com/namansrivastavaaa" target="_blank" rel="noreferrer">GitHub</a>
                 <a href="https://x.com/n_a_m_a_n_16" target="_blank" rel="noreferrer">Twitter</a>
               </div>
             </div>
