@@ -8,7 +8,7 @@ This site is the personal portfolio of Naman Srivastava, a software developer fo
 - [Interview Experiences](https://interview-exp-inky.vercel.app/)
 - [GitHub](https://github.com/namansrivastavaaa)
 - [LinkedIn](https://linkedin.com/in/namansrivastavaaa)
-- [YouTube](https://www.youtube.com/@naman_0804/)
+- [YouTube](https://www.youtube.com/@namansrivastavaaa/)
 - [ORCID](https://orcid.org/0009-0007-1557-9333)
 
 ## Guidance

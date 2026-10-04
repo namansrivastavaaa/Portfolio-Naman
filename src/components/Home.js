@@ -84,7 +84,7 @@ function Home() {
               <a href="https://github.com/namansrivastavaaa" target="_blank" rel="noopener noreferrer" className="social-node" data-brand="github" aria-label="Naman Srivastava on GitHub">
                 <FaGithub aria-hidden="true" focusable="false" />
               </a>
-              <a href="https://www.youtube.com/@naman_0804/" target="_blank" rel="noopener noreferrer" className="social-node" data-brand="youtube" aria-label="Naman Srivastava on YouTube">
+              <a href="https://www.youtube.com/@namansrivastavaaa/" target="_blank" rel="noopener noreferrer" className="social-node" data-brand="youtube" aria-label="Naman Srivastava on YouTube">
                 <FaYoutube aria-hidden="true" focusable="false" />
               </a>
               <a href="https://orcid.org/0009-0007-1557-9333" target="_blank" rel="noopener noreferrer" className="social-node" data-brand="orcid" aria-label="Naman Srivastava ORCID profile">

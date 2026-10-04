@@ -187,7 +187,7 @@ function Projects() {
       image: medhub,
       technologies: ['React', 'Node.js', 'Express'],
       github: 'https://github.com/namansrivastavaaa/Healthcare',
-      youtube: 'https://www.youtube.com/@naman_0804'
+      youtube: 'https://www.youtube.com/@namansrivastavaaa'
     },
     {
       id: 'okra-button',
@@ -197,7 +197,7 @@ function Projects() {
       image: okrapic,
       technologies: ['Python', 'Image Processing'],
       github: 'https://github.com/namansrivastavaaa/Okra-Maturity-Analysis',
-      youtube: 'https://www.youtube.com/@naman_0804'
+      youtube: 'https://www.youtube.com/@namansrivastavaaa'
     },
     {
       id: 'vitalized-button',
